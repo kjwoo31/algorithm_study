@@ -1,0 +1,6 @@
+﻿  destructor.cpp
+  main.cpp
+C:\Users\USER-PC\Desktop\cppstudy\cppstudy_objectoriented\ch8 object oriented programming\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  oop.cpp
+  Generating Code...
+  ch8 object oriented programming.vcxproj -> C:\Users\USER-PC\Desktop\cppstudy\cppstudy_objectoriented\Debug\ch8 object oriented programming.exe

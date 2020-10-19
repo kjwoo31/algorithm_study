@@ -1,0 +1,9 @@
+﻿  nm.cpp
+  nm2.cpp
+  Generating Code...
+nm2.obj : error LNK2005: "int n" (?n@@3HA) already defined in nm.obj
+nm2.obj : error LNK2005: "int m" (?m@@3HA) already defined in nm.obj
+nm2.obj : error LNK2005: "int * a" (?a@@3PAHA) already defined in nm.obj
+nm2.obj : error LNK2005: "bool * visit" (?visit@@3PA_NA) already defined in nm.obj
+nqueen.obj : error LNK2005: "int n" (?n@@3HA) already defined in nm.obj
+C:\Users\USER-PC\Desktop\cppstudy\cppstudy_by_step\Debug\ch13 backtracking.exe : fatal error LNK1169: one or more multiply defined symbols found

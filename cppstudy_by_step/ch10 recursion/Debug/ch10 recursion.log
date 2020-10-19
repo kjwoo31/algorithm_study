@@ -1,0 +1,5 @@
+﻿  fibonacci.cpp
+  hanoi.cpp
+  Generating Code...
+Source.obj : error LNK2005: _main already defined in fibonacci.obj
+C:\Users\USER-PC\Desktop\cppstudy\cppstudy_by_step\Debug\ch10 recursion.exe : fatal error LNK1169: one or more multiply defined symbols found
